@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Aporcaritei</h1>
-<h3 align="center">A passionate frontend developer but also with backend knowledge.</h3>
+<h3 align="center"> I'm a software/web developer who wants to evolve in this branch, I am an avid learner who believe in the power of continuous growth and I actively seek out opportunities to expand my knowledge. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianaporcaritei&label=Profile%20views&color=0e75b6&style=flat" alt="adrianaporcaritei" /> </p>
 
