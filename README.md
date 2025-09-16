@@ -7,9 +7,11 @@
 
 - 📫 How to reach me **aporcariteiadrian@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adrian-aporcaritei-0023851a8" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-aporcaritei-0023851a8" height="30" width="40" /></a>
+<h3 style="text-align:left;">Connect with me:</h3>
+<p style="text-align:left;">
+  <a href="https://www.linkedin.com/in/adrian-aporcaritei-0023851a8" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect with me on LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 
